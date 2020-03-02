@@ -1,2 +1,0 @@
-# FEDTraining
-Created with CodeSandbox
